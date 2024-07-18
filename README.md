@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div style="width: 100%;">
   <a href="https://github.com/shayaneivazkhani/shayaneivazkhani/blame/main/hello.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+    <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
 
