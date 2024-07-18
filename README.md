@@ -72,5 +72,3 @@ I’m always open to discussing new ideas, collaborating on projects, or simply 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/shayaneivazkhani/count.svg" />
 </p>
-
-[![](https://visitcount.itsvg.in/api?id=shayaneivazkhani&icon=0&color=1)](https://visitcount.itsvg.in)
