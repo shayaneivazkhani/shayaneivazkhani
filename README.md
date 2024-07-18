@@ -13,15 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div style="width: 100%;">
   <a href="https://github.com/shayaneivazkhani/shayaneivazkhani/blame/main/hello.svg">
-    <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
+    <img src="hello.svg" style="width: 100%;" alt="See the source">
   </a>
 </div>
 
 ### 💫 About Me
-
-<p style="font-size: 20px; color: #4682b4;">This is a paragraph with custom styling and Markdown headers.</p>
 
 I'm a third-year student pursuing my Bachelor's degree in Computer Engineering (CDATE) at KTH University in Stockholm, Sweden. Currently aspiring to earn my Master of Science in Engineering degree in Machine Learning. My journey into the world of programming and computer science began in fall 2021. 
 - Passionate about software development, embedded systems, and network programming.
