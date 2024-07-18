@@ -68,5 +68,9 @@ I’m always open to discussing new ideas, collaborating on projects, or simply 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
 ---
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shayaneivazkhani/count.svg" />
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=shayaneivazkhani&icon=0&color=1)](https://visitcount.itsvg.in)
