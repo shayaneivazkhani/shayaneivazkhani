@@ -13,9 +13,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div style="width: 100%;">
+  <a href="https://github.com/shayaneivazkhani/shayaneivazkhani/blame/main/hello.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 
 ### 💫 About Me
+
+<p style="font-size: 20px; color: #4682b4;">This is a paragraph with custom styling and Markdown headers.</p>
+
 I'm a third-year student pursuing my Bachelor's degree in Computer Engineering (CDATE) at KTH University in Stockholm, Sweden. Currently aspiring to earn my Master of Science in Engineering degree in Machine Learning. My journey into the world of programming and computer science began in fall 2021. 
 - Passionate about software development, embedded systems, and network programming.
 - Excited about the potential of Machine Learning and its applications in diverse fields.
@@ -43,8 +50,8 @@ I’m always open to discussing new ideas, collaborating on projects, or simply 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) 
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
