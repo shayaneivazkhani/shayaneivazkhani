@@ -40,10 +40,10 @@
         .hi {
           animation: hi 3s linear -1.5s infinite;
           display: inline-block;
-          position: absolute;
-          top: 43%;
-          left: 32%;
-          /* transform-origin: 70% 70%; */
+          position: relative;
+          top: 0;
+          left: 0;
+          transform-origin: 70% 70%;
         }
         @keyframes hi  {
             0% { transform: rotate( 0.0deg) }
