@@ -74,5 +74,6 @@ I’m always open to discussing new ideas & collaborating on projects.
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/shayaneivazkhani/count.svg" />
+  <!-- <img src="https://profile-counter.glitch.me/shayaneivazkhani/count.svg" /> -->
+  ![](https://komarev.com/ghpvc/?username=shayaneivazkhani&style=for-the-badge)
 </p>
