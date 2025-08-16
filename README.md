@@ -72,8 +72,13 @@ I’m always open to discussing new ideas & collaborating on projects.
 
 ---
 
+<!-- 
 <p align="center"> 
   Visitor count<br>
-  <!-- <img src="https://profile-counter.glitch.me/shayaneivazkhani/count.svg" /> -->
-  ![](https://komarev.com/ghpvc/?username=shayaneivazkhani&style=for-the-badge)
+  <img src="https://profile-counter.glitch.me/shayaneivazkhani/count.svg" />
 </p>
+-->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=shayaneivazkhani&style=for-the-badge" style="width: 30%;" alt="See the source">
+</p>
+<!-- ![](https://komarev.com/ghpvc/?username=shayaneivazkhani&style=for-the-badge) -->
