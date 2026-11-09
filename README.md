@@ -20,17 +20,19 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<!--
 ### 💫 About Me
 
 - Passionate about software development, embedded systems and network programming.
 - Excited about the potential of Machine Learning and its applications in diverse fields.
+-->
 
-
-### 📫 Get in touch
+<!--### 📫 Get in touch
 I’m always open to discussing new ideas & collaborating on projects.
 
 - [Webpage](https://shayaneivazkhani.com)
-- [Email](mailto:shayanek.developer@proton.me)
+- [Email](mailto:shayanek.developer@proton.me) 
+-->
 <!-- - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/shayan-eivaz-khani-799a46313)
 -->
 
